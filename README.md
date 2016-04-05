@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Oracle Java 7 || Open JDK 1.6
+Oracle Java 7 || Open JDK 1.7
 
 ## Run
 
